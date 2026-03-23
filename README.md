@@ -1,6 +1,10 @@
 -Lambda function to double a number
+
 -Recursive function to calculate factorial
+
 -Variable-Length Arguments
+
 -*args
+
 -**kwargs
 - Nested function in Python
